@@ -1,6 +1,6 @@
 ### Hi there, I'm Apo👋
 
- * 🔭 I’m currently working on [OBSS](https://obss.com.tr/about/) 
+ * 🔭 I’m currently working at [OBSS](https://obss.com.tr/about/) 
 
 <!--
 **abdurrahmankolsuz/abdurrahmankolsuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
