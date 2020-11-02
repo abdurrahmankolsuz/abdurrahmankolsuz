@@ -1,6 +1,5 @@
 ### Hi there, I'm Apo👋
 
- * :computer: I’m currently working at [OBSS](https://obss.com.tr/about/) 
  * :memo: Here is my Stack Overflow [profile](https://stackoverflow.com/cv/krezus) 
 
 <!--
