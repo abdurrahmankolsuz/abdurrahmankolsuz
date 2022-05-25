@@ -1,6 +1,6 @@
 ### Hi there, I'm Apo👋
 
- * :memo: Here is my Stack Overflow [profile](https://stackoverflow.com/cv/krezus) 
+ * :memo: Here is my Stack Overflow [profile](https://stackoverflow.com/users/3222918/krezus) 
 
 <!--
 **abdurrahmankolsuz/abdurrahmankolsuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
